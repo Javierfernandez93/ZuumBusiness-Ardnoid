@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "992216746331",
+    "firebase_url": "https://zuum-332300-default-rtdb.firebaseio.com",
+    "project_id": "zuum-332300",
+    "storage_bucket": "zuum-332300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992216746331:android:05cb18d8ce255e0490b27e",
+        "android_client_info": {
+          "package_name": "com.zuum.zuum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992216746331-8pgedt200fn3l032vo6oo158uvtt3sr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACkb5V3jPXJe4eqDfFNeF9VvgZhn-a9t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992216746331-8pgedt200fn3l032vo6oo158uvtt3sr4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992216746331-mk54umpd9hlrb1tn3i5t2j0v9jnhf6m0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zuum.Zuum"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992216746331:android:3a56b94fa134336a90b27e",
+        "android_client_info": {
+          "package_name": "com.zuum.zuumbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992216746331-8pgedt200fn3l032vo6oo158uvtt3sr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACkb5V3jPXJe4eqDfFNeF9VvgZhn-a9t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992216746331-8pgedt200fn3l032vo6oo158uvtt3sr4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992216746331-mk54umpd9hlrb1tn3i5t2j0v9jnhf6m0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zuum.Zuum"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
